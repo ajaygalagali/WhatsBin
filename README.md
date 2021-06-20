@@ -25,7 +25,7 @@ Pasting on [pastebin.com][pastebin] by sending messages in WhatsApp without visi
 
 #### Want to know implementation?
 
-Check out my blog at <Heading-of-blog-here>
+Check out my blog [here][blog] ✍
 
 🛠 Developed by [Ajay Galagali][me]
 
@@ -35,3 +35,4 @@ Check out my blog at <Heading-of-blog-here>
 [twiliowhatsappsandbox]: https://www.twilio.com/docs/whatsapp/sandbox
 [whatsapp]: https://www.whatsapp.com/?lang=en
 [me]: https://linktr.ee/ajaygalagali
+[blog]: https://ajaygalagali.hashnode.dev/how-to-paste-on-pastebin-using-whatsapp
